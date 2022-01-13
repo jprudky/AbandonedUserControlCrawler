@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <Authors>Jan Prudky</Authors>
+    <Company>enware</Company>
+    <Description>For a provided folder path it searches for all "as*x" files and tries to find any abandoned controls in page register directives (registered but not used)</Description>
+  </PropertyGroup>
+
+</Project>
